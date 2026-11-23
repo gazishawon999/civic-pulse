@@ -8,8 +8,8 @@ const font = Plus_Jakarta_Sans({ subsets: ["latin"], display: "swap" });
 
 export const metadata = {
   title: {
-    default: "Shomaj Setu | Social Development Events",
-    template: "%s | Shomaj Setu",
+    default: "Civic Pulse | Social Development Events",
+    template: "%s | Civic Pulse",
   },
   description:
     "Create, join and track community service events in your neighbourhood.",
